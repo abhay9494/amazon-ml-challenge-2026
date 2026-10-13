@@ -1,0 +1,25 @@
+# Competition data and everything produced from it stay out of git
+student_resource/
+Data Set/
+dataset/
+cache/
+output/
+output_*/
+*.tsv
+*.parquet
+*.pkl
+*.npy
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors / local settings
+.vscode/
+.idea/
+.claude/
+.env

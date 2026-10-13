@@ -1,0 +1,6 @@
+# Python 3.12 (tested on 3.12.10, Windows 11, 16 GB RAM, 16 logical CPUs, no GPU)
+polars==1.44.2
+numpy==2.4.4
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+Unidecode==1.4.0
